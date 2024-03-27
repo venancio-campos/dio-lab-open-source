@@ -1,6 +1,7 @@
 # Venâncio Campos
 
 Estou retornando ao desenvolvimento após uma pausa, construindo habilidades.
+[Perfil DIO](https://web.dio.me/users/venancampos)
 
 # Contact
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:venanciocmps2@gmail.com)
@@ -14,5 +15,7 @@ Estou retornando ao desenvolvimento após uma pausa, construindo habilidades.
 
 # Tools
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 Este md será atualizado nos próximos dias!
